@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Anass EZ-ZOUAINE
+## Hi there 👋, I'm Anass EZ-ZOUAINE
 
-
-
+###  🎉 🏠 🌟 Welcome 💪 🤓 ☕
 
 [![Gmail Badge](https://img.shields.io/badge/ans--ezzouaine%40hotmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ans-ezzouaine@hotmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-@ansezz-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansezz/ "Connect on LinkedIn")
@@ -17,6 +16,59 @@
 - 👯 I’m looking to collaborate on any open source projects.
 - 💬 Ask me about PHP Laravel, JavaScript VueJs, Shopify, Cloud.
 - 📫 How to reach me: Use any of the [badges](#user-content-hi-there--im-anass-ez-zouaine) above
+
+
+<details>
+ 
+  <summary>Some of my Github Public Stats :computer:</summary>
+  
+  >
+ 
+[![Ansezz's github stats](https://github-readme-stats.vercel.app/api?username=ansezz&show_icons=true&theme=cobalt)](https://github.com/ansezz)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansezz&layout=compact&theme=cobalt)](https://github.com/ansezz)
+ >
+
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ansezz)
+
+  ----
+  
+</details>
+
+<details>
+  <summary>Liked Quotes: :computer:</summary>
+
+----
+> “If I do a job in 30 minutes it’s because I spent 10 years learning how to do that in 30 minutes. You owe me for the years, not the minutes.”
+----  
+> “Today’s goals: Coffee and kindness. Maybe two coffees, and then kindness.” – Nanea Hoffman
+----  
+> “Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done!” 
+― Sylvester Stallone, Rocky Balboa
+----
+> "I don't know who you are. I don't know what you want. If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you." - TAKEN
+----  
+>  The significant problems we face cannot be solved by the same level of thinking that created them.  - Albert Einstein
+----
+> A clever person solves a problem.
+> A wise person AVOIDS it.
+> - Albert Einstein
+----
+> It is not enough to do your best: you must KNOW what to do, and THEN do your best. - W.Edwards Deming
+----
+> Everybody Knows:
+> * Discipline is the best tool.
+> * Design first, then code.
+> * Don’t patch bugs out, rewrite them out.
+> * Don’t test bugs out, DESIGN them out.
+----
+> Why do we never have time to do it right, but always have time to DO IT OVER?
+----
+> 9 women CANNOT make a baby in ONE MONTH.
+----
+> “In order to be irreplaceable, one must always be different” – Coco Chanel
+----
+</details>
+
+
 
 <!--
 **ansezz/ansezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
