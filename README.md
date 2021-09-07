@@ -39,20 +39,17 @@
 ----
 > “If I do a job in 30 minutes it’s because I spent 10 years learning how to do that in 30 minutes. You owe me for the years, not the minutes.”
 ----  
-> “Today’s goals: Coffee and kindness. Maybe two coffees, and then kindness.” – Nanea Hoffman
+> “Today’s goals: Coffee and kindness. Maybe two coffees, and then kindness.”  ~  **Nanea Hoffman**
 ----  
-> “Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done!” 
-― Sylvester Stallone, Rocky Balboa
+> “Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done!”  ~  **Sylvester Stallone, Rocky Balboa**
 ----
-> "I don't know who you are. I don't know what you want. If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you." - TAKEN
+> "I don't know who you are. I don't know what you want. If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you." - **TAKEN**
 ----  
->  The significant problems we face cannot be solved by the same level of thinking that created them.  - Albert Einstein
+>  The significant problems we face cannot be solved by the same level of thinking that created them. ~ **Albert Einstein**
 ----
-> A clever person solves a problem.
-> A wise person AVOIDS it.
-> - Albert Einstein
+> A clever person solves a problem. A wise person AVOIDS it. - **Albert Einstein**
 ----
-> It is not enough to do your best: you must KNOW what to do, and THEN do your best. - W.Edwards Deming
+> It is not enough to do your best: you must KNOW what to do, and THEN do your best.  ~  **W.Edwards Deming**
 ----
 > Everybody Knows:
 > * Discipline is the best tool.
@@ -64,8 +61,12 @@
 ----
 > 9 women CANNOT make a baby in ONE MONTH.
 ----
-> “In order to be irreplaceable, one must always be different” – Coco Chanel
+> “In order to be irreplaceable, one must always be different”  ~  **Coco Chanel**
 ----
+> Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever.  ~  **Lance Armstrong**
+----
+> “Just keep moving forward and don’t give a shit about what anybody thinks. Do what you have to do, for you.” ~ **Johnny Depp**
+---- 
 </details>
 
 
