@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working as web Developer Freelancer
+- 🌱 I’m currently learning ReactJs
+- 👯 I’m looking to collaborate on more open source projects
+- 💬 Ask me about PHP Laravel, JavaScript VueJs, Shopify, Cloud 
+- 📫 How to reach me: [Here](https://www.linkedin.com/in/ansezz/)
+
 <!--
 **ansezz/ansezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
