@@ -34,7 +34,7 @@
 </details>
 
 <details>
-  <summary>Liked Quotes: :computer:</summary>
+  <summary>Liked Quotes: 📖 </summary>
 
 ----
 > “If I do a job in 30 minutes it’s because I spent 10 years learning how to do that in 30 minutes. You owe me for the years, not the minutes.”
@@ -66,6 +66,8 @@
 > Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever.  ~  **Lance Armstrong**
 ----
 > “Just keep moving forward and don’t give a shit about what anybody thinks. Do what you have to do, for you.” ~ **Johnny Depp**
+---- 
+> “Trust Me, I never Lose; I either win or learn!” 
 ---- 
 </details>
 
