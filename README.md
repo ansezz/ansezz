@@ -26,9 +26,9 @@
 - 🕴️ Business acumen 
 
 
-<summary>
-Some of my Github Public Stats :computer:
-</summary>
+----
+
+> Some of my Github Public Stats :computer:
   
 >
  
