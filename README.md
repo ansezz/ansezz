@@ -25,7 +25,7 @@
 - 💡 Ability to Learn, Adapt and Grow 
 - 🕴️ Business acumen 
 
-<details>
+
   <summary>
    Some of my Github Public Stats :computer:
  </summary>
@@ -39,7 +39,7 @@
 
   ----
   
-</details>
+
 
 <details>
   <summary>
