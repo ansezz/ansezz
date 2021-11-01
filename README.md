@@ -26,16 +26,16 @@
 - 🕴️ Business acumen 
 
 
-  <summary>
-   Some of my Github Public Stats :computer:
- </summary>
+<summary>
+Some of my Github Public Stats :computer:
+</summary>
   
-  >
+>
  
 [![Ansezz's github stats](https://github-readme-stats.vercel.app/api?username=ansezz&show_icons=true&theme=cobalt)](https://github.com/ansezz)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansezz&layout=compact&theme=cobalt)](https://github.com/ansezz)
- >
+>
 
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ansezz)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ansezz)
 
   ----
   
