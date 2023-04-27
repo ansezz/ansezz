@@ -8,9 +8,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ansezz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ansezz "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-@ansezz-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/ansezz "Connect on Facebook")
 
-- 💻 I’m currently working as web Developer Freelancer.
+- 💻 I’m currently working as Lead Web Developer.
 - 🏠 I’m currently living at Meknes City, Morocco 🇲🇦.
-- 🌱 I’m currently learning Shopify & ReactJs.
+- 🌱 I’m currently learning AWS & ReactJs.
 - 👯 I’m looking to collaborate on any open source projects.
 - 💬 Ask me about PHP Laravel, JavaScript VueJs, Shopify, Cloud.
 - 📫 How to reach me: Use any of the [badges](#user-content-hi-there--im-anass-ez-zouaine) above
