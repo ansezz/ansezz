@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Wave Header - GitHub Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Anass%20EZ-ZOUAINE&fontSize=42&fontColor=C9D1D9&animation=twinkling&fontAlignY=32&desc=Creative%20Entrepreneur%20%7C%20SaaS%20Lead%20Developer&descAlignY=52&descSize=18&descColor=58A6FF"/>
+<!-- Animated Wave Header - GitHub Blue -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,50:58A6FF,100:0969DA&height=180&section=header&text=Anass%20EZ-ZOUAINE&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Creative%20Entrepreneur%20%7C%20SaaS%20Lead%20Developer&descAlignY=52&descSize=18&descColor=FFFFFF"/>
 
 <!-- Animated Typing - GitHub Blue -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Creative+Entrepreneur+%7C+Tech+Innovator;%F0%9F%9B%8D%EF%B8%8F+Shopify+Expert+%26+Apps+Builder;%F0%9F%A4%96+AI-Powered+Apps+%7C+Vibe+Coding" alt="Typing SVG" /></a>
@@ -190,5 +190,5 @@ I'm passionate about continuous learning and staying up-to-date with emerging te
 
 </div>
 
-<!-- Animated Wave Footer - GitHub Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer"/>
+<!-- Animated Wave Footer - GitHub Blue -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,50:58A6FF,100:0969DA&height=100&section=footer"/>
